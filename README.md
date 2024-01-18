@@ -4,13 +4,13 @@
 
 This hotel data analysis project involves leveraging SQL Server for querying and analyzing hotel data sourced from an Excel file. The project encompasses the creation of a database, querying data, conducting exploratory data analysis (EDA), and creating data visualizations using Power BI.
 
-# Tools Used
+## Tools Used
 
     SQL Server: Primary database management system for data storage and querying.
     Excel File: Source of raw hotel data.
     Power BI: Business intelligence tool for creating interactive visualizations.
 
-# Project Steps
+## Project Steps
 
 1. Database Creation
 
@@ -34,6 +34,6 @@ These questions are explored using SQL queries and analytical techniques to unco
 
 To enhance data interpretation and presentation, Power BI is utilized to create interactive visualizations. These visualizations may include charts, graphs, and dashboards that provide a comprehensive view of the hotel data. The goal is to convey key findings in a visually appealing and understandable manner.
 
-# Conclusion
+## Conclusion
 
 The hotel data analysis project aims to provide actionable insights for strategic decision-making within the hotel management. By utilizing SQL Server for data querying and Power BI for visualization, the project enables a holistic analysis of hotel operations, revenue trends, and potential areas for improvement. The combination of SQL and Power BI facilitates a seamless transition from raw data to actionable insights, empowering hotel management to make informed decisions for the improvement and growth of the business.
